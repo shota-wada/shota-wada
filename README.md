@@ -18,7 +18,7 @@ I specialize in multi-asset derivatives pricing, risk modeling, and integrating 
 ### Monte Carlo Simulated Portfolios
 
 
-### Portfolio Optmial Allocation and Value-at-Risk (VaR)
+### [Portfolio Optmial Allocation and Value-at-Risk (VaR)](https://github.com/shota-wada/optimal_portfolio_allocation)
 - Derive and implement analytical solution for Global Minimum Variance (GMV) using Lagrangian optimization, and computed optimal asset allocation from provided volatility and correlation matrices.
 - Extend mean-variance optimization to target 7% return, and analysed allocation and portfolio risk under scaled correlation regimes (x1.0, x1.3, x1.8), revealing amplification of high-correlation markets.
 - Illustrated how Sharpre Ratios with vary with evaluation frequency (daily, monthly, and quarterly) and translated these into loss probabilities, to explain the illusion of increased risk with higher monitoring frequency.
