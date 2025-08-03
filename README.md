@@ -5,16 +5,8 @@ I'm **Shota Wada**, Bloomberg Risk and Bloomberg quant platform Specialist and T
 
 I specialize in multi-asset derivatives pricing, risk modeling, and integrating quantitative workflows via APIs and analytics platforms. I’m passionate about empowering financial professionals through better tools, automation, and education.
 
-## CQF Projects & Topics
-
-### Portfolio Construction using Black-Litterman Model and Factors
-
-
-### Sharpe Ratio & Risk Frequency Analysis
-
-
-### Monte Carlo Simulated Portfolios
-
+<details>
+  <summary><h2>Look at my CQF Projects & Topics</h2></summary>
 
 ### [Portfolio Optmial Allocation and Value-at-Risk (VaR)](https://github.com/shota-wada/optimal_portfolio_allocation)
 - Derive and implement analytical solution for Global Minimum Variance (GMV) using Lagrangian optimization, and computed optimal asset allocation from provided volatility and correlation matrices.
@@ -22,6 +14,8 @@ I specialize in multi-asset derivatives pricing, risk modeling, and integrating 
 - Illustrated how Sharpre Ratios with vary with evaluation frequency (daily, monthly, and quarterly) and translated these into loss probabilities, to explain the illusion of increased risk with higher monitoring frequency.
 - Backtesting by calculating 99% 10D VaR using rolling standard deviation, and identifying the breach events during market stress (COVID-19, 2020-2021 coorrection) and visualized comparative risk across indices.
 - Replicated rolling standard deviation with EWMA volatility using λ = 0.72. Assessed how smoother volatility inputs impact VaR estimation and breach sensitivity.
+    
+</details>
 
 ## Skills & Technologies
 
