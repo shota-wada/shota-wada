@@ -37,11 +37,6 @@ I specialize in multi-asset derivatives pricing, risk modeling, and integrating 
 - I'm currently learning **advanced portfolio optimization**, **machine learning for finance**, and enhancing my knowledge through the **CQF (Certificate in Quantitative Finance)**.
 - I'm looking to collaborate on **quant research, risk modeling, and building scalable financial tools using Python and APIs**.
 
-**Connect with me**  
-[LinkedIn](https://www.linkedin.com/in/shota-wada)
-
-
-
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shota-wada)
 
 
