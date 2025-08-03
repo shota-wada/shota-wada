@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 I'm Shota Wada
+
+- 🔧 I'm currently working as a **Team Leader at Bloomberg Tokyo**, where my team help client on supporting and scale **BQuant**, Bloomberg's Python-based analytics platform for quant research and portfolio modeling.
+- 📚 I'm currently learning **advanced portfolio optimization**, **machine learning for finance**, and enhancing my knowledge through the **CQF (Certificate in Quantitative Finance)**.
+- 🤝 I'm looking to collaborate on **quant research, risk modeling, and building scalable financial tools using Python and APIs**.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shota-wada)
+
 
 <!--
 **shota-wada/shota-wada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
