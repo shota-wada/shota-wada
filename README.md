@@ -28,6 +28,17 @@ I specialize in multi-asset derivatives pricing, risk modeling, and integrating 
 - Used multiple scenarios to vary strike, volatility, and maturity to observe sensitivity in exotic option pricing.
 - Compared and analyzed pricing differences across option types and simulation parameters.
 
+### [Machiene Learning for Asset Prediction: Asset Trend Classification Using SVM]()
+- Predict short-term return trend of a selected asset (binary: uptrend = 1, downtrend = 0).
+- Focused on binomial classification, avoiding label formats like `[-1, 1]`.
+- Constructed an SVM classifier with a custom feature set tailored to the chosen asset (e.g. equity, ETF, crypto).
+- Demonstrated moderate predictive power on directional trends
+- Explored trade-offs between overfitting and generalization through regularization and kernel choice
+- Evaluated feature importance using recursive elimination and information gain
+- Reinforced understanding of kernel methods, hyperparameter sensitivity, and data leakage risks in financial ML.
+- Highlighted limitations of predicting short-term returns in efficient markets.
+- Demonstrated full-stack ML implementation including model tuning, evaluation, and interpretation.
+
 </details>
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shota-wada)
