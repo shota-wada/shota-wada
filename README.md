@@ -21,7 +21,13 @@ I specialize in multi-asset derivatives pricing, risk modeling, and integrating 
 - Illustrated how Sharpre Ratios with vary with evaluation frequency (daily, monthly, and quarterly) and translated these into loss probabilities, to explain the illusion of increased risk with higher monitoring frequency.
 - Backtesting by calculating 99% 10D VaR using rolling standard deviation, and identifying the breach events during market stress (COVID-19, 2020-2021 coorrection) and visualized comparative risk across indices.
 - Replicated rolling standard deviation with EWMA volatility using λ = 0.72. Assessed how smoother volatility inputs impact VaR estimation and breach sensitivity.
-    
+
+### [Asian & Lookback Options Pricing](https://en.wikipedia.org/wiki/Exotic_option)
+- Priced exotic options using the risk-neutral expectation of discounted payoff under Monte Carlo simulation.
+- Implemented the **Euler–Maruyama scheme** to simulate asset price paths for both Asian and Lookback options.
+- Used multiple scenarios to vary strike, volatility, and maturity to observe sensitivity in exotic option pricing.
+- Compared and analyzed pricing differences across option types and simulation parameters.
+
 </details>
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shota-wada)
