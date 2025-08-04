@@ -6,12 +6,11 @@ I'm **Shota Wada**, Bloomberg Risk and Bloomberg quant platform Specialist and T
 I specialize in multi-asset derivatives pricing, risk modeling, and integrating quantitative workflows via APIs and analytics platforms. I’m passionate about empowering financial professionals through better tools, automation, and education.
 
 ## Skills & Technologies
-
-**Certifications**: Certificate in Quant Finance (CQF), 2024  
-**Programming & Modeling**: Python, HTML
-**Quantitative Finance**: Portfolio Optimization, Risk Modeling, Derivatives Pricing, Machienel Learning, Deep Learning
-**Platforms**: Bloomberg BQuant, Bloomberg MARS, Bloomberg API
-**Languages**: Fluent in English, Japanese, and Indonesian  
+- **Certifications**: Certificate in Quant Finance (CQF), 2024
+- **Programming & Modeling**: Python, HTML
+- **Quantitative Finance**: Portfolio Optimization, Risk Modeling, Derivatives Pricing, Machienel Learning, Deep Learning
+- **Platforms**: Bloomberg BQuant, Bloomberg MARS, Bloomberg API
+- **Languages**: Fluent in English, Japanese, and Indonesian  
 
 <details>
   <summary><h2>My CQF Projects & Topics</h2></summary>
