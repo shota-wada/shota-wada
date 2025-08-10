@@ -23,7 +23,7 @@ I specialize in multi-asset derivatives pricing, risk modeling, and integrating 
 - Replicated rolling standard deviation with EWMA volatility using λ = 0.72. Assessed how smoother volatility inputs impact VaR estimation and breach sensitivity.
 
 ### [Asian & Lookback Options Pricing](https://github.com/shota-wada/asian_lookback_option)
-- Priced exotic options using the risk-neutral expectation of discounted payoff under Monte Carlo simulation.
+- Priced path dependent exotic options (Asian Option and Lookback Option) using the risk-neutral expectation of discounted payoff under Monte Carlo simulation.
 - Implemented the **Euler–Maruyama scheme** to simulate asset price paths for both Asian and Lookback options.
 - Used multiple scenarios to vary strike, volatility, and maturity to observe sensitivity in exotic option pricing.
 - Compared and analyzed pricing differences across option types and simulation parameters.
