@@ -16,6 +16,7 @@ I specialize in multi-asset derivatives pricing, risk modeling, and integrating 
   <summary>
     <h2>
       <code>My CQF Projects & Topics</code>
+      <sub><sub>(click to expand)</sub></sub>
     </h2>
   </summary>
 
