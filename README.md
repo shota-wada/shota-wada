@@ -13,7 +13,11 @@ I specialize in multi-asset derivatives pricing, risk modeling, and integrating 
 - **Languages**: Fluent in English, Japanese, and Indonesian  
 
 <details>
-  <summary><h2>My CQF Projects & Topics</h2></summary>
+  <summary>
+    <h2>
+      <code>My CQF Projects & Topics</code>
+    </h2>
+  </summary>
 
 ### [Portfolio Optmial Allocation and Value-at-Risk (VaR)](https://github.com/shota-wada/optimal_portfolio_allocation)
 - Derive and implement analytical solution for Global Minimum Variance (GMV) using Lagrangian optimization, and computed optimal asset allocation from provided volatility and correlation matrices.
