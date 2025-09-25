@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Shota Wada
+## Hi there my name is Shota Wada
 
 ## About Me
 I'm **Shota Wada**, Bloomberg Risk and Bloomberg quant platform Specialist and Team Leader at Bloomberg, with deep expertise in enterprise risk systems, derivatives, and portfolio analytics. With experience across Tokyo and London, I’ve spent over six years servicing global buy-side and sell-side institutions—helping them build scalable, data-driven solutions using Bloomberg's risk platform, Python and Bloomberg’s quantitative platform.
